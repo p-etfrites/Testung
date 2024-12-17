@@ -1,0 +1,70 @@
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-top,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top,
+.uu-bookkit-book-loading-content .plus4u5-app-top {
+  background-color: hsla(189,100%,33%,1);
+  color: hsla(189,100%,100%,1);
+}
+
+.uu-bookkit-book-left .plus4u5-app-menu-link:not(.plus4u5-app-menu-link-disabled):hover,
+.uu-bookkit-book-left .uu-bookkit-leftlink:hover .uu5-bricks-link {
+  background-color: hsla(189,100%,33%,0.10);
+}
+
+.uu-bookkit-book-left .plus4u5-app-menu-link-active,
+.uu-bookkit-book-left .uu-bookkit-leftlink-item-selected .uu5-bricks-link,
+.uu-bookkit-book-left .uu-bookkit-leftlink-item-selected .uu5-bricks-link:hover {
+  background-color: hsla(189,100%,33%,1) !important;
+}
+
+.uu-bookkit-book-left .plus4u5-app-menu-link-active:hover {
+  background-color: hsla(189,100%,33%,1) !important;
+}
+
+.uu-bookkit-book-left .plus4u5-app-menu-link-active .plus4u5-app-go-to-page-link,
+.uu-bookkit-book-left .uu-bookkit-leftlink-item-selected .uu5-bricks-link {
+  color: hsla(189,100%,100%,1) !important;
+}
+
+.uu-bookkit-book-left .plus4u5-app-menu-link-active .plus4u5-app-menu-icon:not(.uu5-common-disabled) .uu5-bricks-icon {
+  color: hsla(189,100%,100%,1);
+}
+
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-top-left-menu.uu5-bricks-page-menu-button:hover,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top-left-menu.uu5-bricks-page-menu-button:hover,
+.uu-bookkit-book-loading-content .plus4u5-app-top-left-menu.uu5-bricks-page-menu-button:hover {
+  background-color: hsla(189,100%,100%,0.10);
+}
+
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button,
+.uu-bookkit-book-loading-content .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button,
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:hover,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:hover,
+.uu-bookkit-book-loading-content .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:hover,
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:active,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:active,
+.uu-bookkit-book-loading-content .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:active,
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:active:hover,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:active:hover,
+.uu-bookkit-book-loading-content .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:active:hover,
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:focus,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:focus,
+.uu-bookkit-book-loading-content .plus4u5-app-page-language-selector>.uu5-bricks-dropdown-button-cover>.uu5-bricks-button:focus,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top .uu5-bricks-dropdown > .uu5-bricks-dropdown-button-cover > .uu5-bricks-button,
+.uu-bookkit-book-spa-not-authenticated .plus4u5-app-top .uu5-bricks-dropdown > .uu5-bricks-dropdown-button-cover > .uu5-bricks-button {
+  color: hsla(189,100%,100%,1);
+}
+
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top .uu-bookkit-search-area-top-div .uu5-bricks-icon.mdi-magnify,
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top .uu-bookkit-search-area-top-div .uu5-bricks-icon.mdi-close {
+  color: hsla(189,100%,100%,1);
+}
+
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top .uu-bookkit-search-area-top-div .uu5-forms-input-form-item-text {
+  color: hsla(189,100%,100%,1);
+  border-color: hsla(189,100%,100%,0.50);
+}
+
+.uu-bookkit-book-spa-authenticated .plus4u5-app-top .uu-bookkit-search-area-top-div .uu5-forms-input-form-item-text::placeholder {
+  color: hsla(189,100%,100%,0.50);
+}
